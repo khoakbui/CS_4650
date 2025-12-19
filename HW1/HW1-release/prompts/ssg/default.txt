@@ -1,0 +1,6 @@
+I'd like you to continue the following sentence into a short story. Please write two additional sentences that maintain the same style, tone, and coherence as the original sentence. The final result should be a complete five-sentence story.
+
+Original sentence:
+{sentence}
+
+Your two additional sentences:

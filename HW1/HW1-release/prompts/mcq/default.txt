@@ -1,0 +1,10 @@
+For the following question, select the best answer from the four options provided.
+
+{question}
+
+[A]:  {option_A}
+[B]: {option_B}
+[C]:  {option_C}
+[D]: {option_D}
+
+Answer: 

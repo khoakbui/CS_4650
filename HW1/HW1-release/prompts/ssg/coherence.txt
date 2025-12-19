@@ -1,0 +1,9 @@
+I'd like you to continue the following sentence into a short story. Please write two additional sentences that connect the original sentence to the provided last sentence. The story should maintain the same style and tone throughout, creating a coherent four-sentence narrative.
+
+Original sentence:
+{sentence}
+
+Last sentence:
+{last_sentence}
+
+Your two connecting sentences:

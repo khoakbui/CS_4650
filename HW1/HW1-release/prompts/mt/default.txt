@@ -1,0 +1,5 @@
+Translate the following text from {source_language} to {target_language}:
+[{source_language}]:
+{source_text}
+\n
+[{target_language}]:
